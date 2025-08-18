@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "d722",
+      "nam1": "Rohit",
+      "hobby": "volleyball"
+    },
+    {
+      "id": "f206",
+      "nam1": "Uday",
+      "hobby": "Crickey"
+    },
+    {
+      "id": "5baa",
+      "nam1": "Karthik",
+      "hobby": "Gym"
+    },
+    {
+      "id": "428b",
+      "nam1": "Teju",
+      "hobby": "badminton"
+    },
+    {
+      "id": "c636",
+      "nam1": "Bobby",
+      "hobby": "Cricket"
+    }
+  ]
+}
