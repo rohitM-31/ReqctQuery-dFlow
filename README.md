@@ -41,6 +41,15 @@ Dependencies
   "react": "^18.0.0",
   "react-dom": "^18.0.0"
 }
+Install  
+npm server: npm install json-server --save-dev
+run the server: npx json-server --watch db.json --port 4000
+
+Run the react App:
+npm run start
+
+
+
 External CDN Resources
 •	Bootstrap CSS: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css
 •	Bootstrap Icons: Included via CSS classes
