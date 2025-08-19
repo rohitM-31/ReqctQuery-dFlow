@@ -63,11 +63,13 @@ Step-by-step Setup
  	git clone <your-repo-url>
 cd todolist-project
 2.	Install dependencies
- 	npm install
-# or
-yarn install
-3.	Set up API endpoints
-const API_BASE_URL = 'https://jsonplaceholder.typicode.com/posts';
+3.	Install  
+npm server: npm install json-server --save-dev
+run the server: npx json-server --watch db.json --port 4000
+
+Run the react App:
+npm run start
+
 4.	Start development server
  	npm start
 # or
